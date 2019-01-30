@@ -1,8 +1,8 @@
 // Test away
-// import React from "react";
-// import { render } from "react-testing-library";
-// import "react-testing-library/cleanup-after-each";
+import React from "react";
+import { render } from "react-testing-library";
+import "react-testing-library/cleanup-after-each";
 
-// import Dashboard from "./Dashboard";
+import Dashboard from "./Dashboard";
 
-// describe("Dashboard Tests", () => {});
+describe("Dashboard Tests", () => {});
